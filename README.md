@@ -37,13 +37,11 @@ The dataset (`Placement_Data_with_Branch.csv`) includes the following columns:
 ## 🖼️ Screenshots
 
 ### 🎯 Dashboard View
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot]("C:\Users\sruthika\OneDrive\Desktop\placement\imagesdashboard.png")
 
 ### 📊 Insights & Charts
-![Charts Screenshot](images/insights.png)
+![Charts Screenshot]("C:\Users\sruthika\OneDrive\Desktop\placement\imagesinsights.png")
 
-### 📄 Generated PDF
-![PDF Screenshot](images/pdf_report.png)
 
 ## 🚀 Future Enhancements
 - Add login system for students and admin
